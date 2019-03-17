@@ -1,1 +1,7 @@
 Developed a very basic NN using NUMPY library.
+
+# How to run the programme
+
+1) Install Numpy-- pip3 install numpy
+2) Download the script in your jypter directory and run.
+
