@@ -2,7 +2,10 @@
 Developed LSTM using TensorFlow
 
 
+Install Dependency:
 
+1) pip3 install Numpy
+2) pip3 install tensorflow
 
 
 Credit:
