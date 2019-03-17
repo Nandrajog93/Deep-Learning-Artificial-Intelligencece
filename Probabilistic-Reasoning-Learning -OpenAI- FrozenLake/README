@@ -9,7 +9,7 @@ The agent is rewarded for finding a walkable path to a goal tile.
 
 # What is this?
 
-Implementing Q-learning algorithm to obtain reward.
+Implementing FrozenLake-v0 using Q-learning algorithm and NN to obtain reward.
 
 #Q-learning algorithm process:
 
