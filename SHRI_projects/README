@@ -1,1 +1,33 @@
 
+# Task
+Task oriented SDS: the goal of the project is to implement a task-oriented SDS in one of any scenarios.
+
+#Scenario: 
+A “Waiter Robot” it serves and responds according to the user who entered into the café to have something based on 
+their interests.
+
+
+#Mechanism of the program: 
+A program written in “Jupyter notebook”provides a dialog with a user. 
+It recognizes user’s voice and translates it into a text using “SpeechRecognition API”, 
+after that works out this data and “understands its meaning” using “Spacy Parser” and gives an answer based on output data of
+“Spacy Parser”.
+
+#Dependency:
+
+1) Google Speech Recognition API -- pip3 install SpeechRecognition
+2) SPACY Parser  -- pip3 install -U spacy
+3) Piglet ---pip3 install piglet
+
+
+# Author
+Aakash Nandrajog
+
+#Contact
+
+Feel free to contact me at: nandrajog.aakash@gmail.com
+
+
+
+
+
