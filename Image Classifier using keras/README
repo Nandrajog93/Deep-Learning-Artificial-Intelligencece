@@ -1,1 +1,28 @@
+Developed Image Classifier using keras library 
+
+How to run?
+
+1) Install the dependency:
+
+Keras -- pip3 install Keras
+Numpy -- pip3 install numpy
+
+
+# What this program do?
+
+This script classify the person using keras library.
+
+
+# How to run
+
+1) Install dependency
+2) Provide training and testing dataset
+3) Download the script 
+4) Run
+
+# Author
+Aakash Nandrajog
+
+# Credits
+siraj raval
 
