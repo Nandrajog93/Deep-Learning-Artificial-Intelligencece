@@ -13,3 +13,23 @@ The episode ends when the pole is more than 15 degrees from vertical, or the car
 
 Implementing Cartpole using TensorFlow
 
+
+#Enviroment
+
+OPENAI-Gym enviroment 
+
+#install Dependency:
+
+gym enivroment -- pip3 install gym
+numpy --- pip3 install numpy
+tensorFlow -- pip install tensorflow
+
+#Author
+
+Aakash Nandrajog
+
+#Credits:
+
+Sentdex
+
+
