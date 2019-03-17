@@ -9,3 +9,31 @@ The agent is rewarded for finding a walkable path to a goal tile.
 
 # What is this?
 
+Implementing Q-learning algorithm to obtain reward.
+
+#Q-learning algorithm process:
+
+1) Initialize Q-table
+2) Choose an action
+3) Perfrom action
+4) Measured reward
+5) Update Q-table
+
+#Enviroment
+
+OPENAI-Gym enviroment 
+
+#install Dependency:
+
+gym enivroment -- pip3 install gym
+numpy --- pip3 install numpy
+
+#Author
+
+Aakash Nandrajog
+
+#Credits:
+
+Thomas Simonini
+
+
